@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<title>Згрундо Рома</title>
+			<meta name="description" content="Страница Романа Згрундо">
+		</head>
+
+		<body>
+			<div>
+			<a name="q"></a>
+			</div>
+			<div>
+				<img src="4.jpg" alt="Мое фото">
+			</div>
+			<h1 align="center">Немного о себе</h1>
+				<p><font color="blue" size="36"><b>Обучение</b></font></p>
+				<div>
+				<i>Студент БГУИР<strong> до 2023 года</strong></i>
+				</div>
+				<p>Закончил школу с золотой медалью</p>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+			<div>
+				<p><font color="blue" size="36"><b>Интересы</b></font></p>
+				<ul type="square">
+					<li>эндуро</li>
+					<li>музыка</li>
+					<li>путешествия</li>
+					<li>программирование</li>
+					<li>проект BLOCK project</li>
+				</ul>
+			</div>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<br>
+				<hr>
+			<div>
+				<a href="https://www.google.by/" target="_blank">Google</a>
+				<br>
+				<a href="mailto:roman.zgrundo@gmail.com" target="_blank">супер крутая инфа</a>
+				<br>
+				<a href="#q">наверх</a>
+				<hr>
+				<br>
+			</div>
+		</body>
+	</html>
